@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavishka Dilshan</h1>
 <h3 align="center">Undergraduate at SLIIT 🎓</h3>
 
-<img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+<img src="https://komarev.com/ghpvc/?username=kavidilan" alt="AnushkaWijegoonawardana97" />
 
 
 - 🌱 I’m currently learning **Java ,Javascript**
